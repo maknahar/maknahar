@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there I'm Mayank Patel 👋
 
-<!--
-**maknahar/maknahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github stats](https://github-readme-stats.vercel.app/api?username=maknahar&count_private=true&show_icons=true&theme=dracula)](https://www.linkedin.com/in/maknahar)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+- 🤠 Seasoned full stack developer
+- 🔭 I’m currently working on commercial software.
+- 🌱 I’m currently learning to enginerring leadership.
+- 👯 I’m looking to collaborate on enterprise projects.
+- 🤔 I’m looking to connect with intelligent people.
+- 💬 Ask me about Golang, AWS, DevOps, SQL.
+- 📫 You can reach me at mayankpatel91@outlook.com
