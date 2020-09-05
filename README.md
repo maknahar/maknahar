@@ -1,6 +1,8 @@
-### Hi there I'm Mayank Patel 👋
+### Hi there, I'm Mayank Patel 👋
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=maknahar&count_private=true&show_icons=true&theme=dracula)](https://www.linkedin.com/in/maknahar)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Kumaran&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About
 - 🤠 Seasoned full stack developer
