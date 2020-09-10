@@ -1,7 +1,7 @@
 ### Hi there, I'm Mayank Patel 👋
 
 ## About
-- 🤠 Seasoned full stack developer
+- 🤠 Seasoned full stack software engineer.
 - 🔭 I’m currently working on commercial software.
 - 🌱 I’m currently learning React.js.
 - 👯 I’m looking to collaborate on enterprise projects.
