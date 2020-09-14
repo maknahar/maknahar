@@ -3,7 +3,7 @@
 ## About
 - 🤠 Seasoned full stack software engineer.
 - 🔭 I’m currently working on commercial software.
-- 🌱 I’m currently learning React.js.
+- 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on enterprise projects.
 - 🤔 I’m looking to connect with intelligent people.
 - 💬 Ask me about Golang, AWS, DevOps, SQL.
