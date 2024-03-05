@@ -10,9 +10,4 @@
 - 💬 Ask me about Golang, AWS, UX and Databases.
 - 📫 You can reach me at mayankpatel91@outlook.com
 
-## Stats
-
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=maknahar&count_private=true&show_icons=true&theme=dracula)](https://www.linkedin.com/in/maknahar)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maknahar&theme=dracula)](https://www.linkedin.com/in/maknahar)
