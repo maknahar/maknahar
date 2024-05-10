@@ -4,7 +4,7 @@
 - 🤠 Seasoned full stack engineer.
 - :office: Leading a team of 15-20 Engineers.
 - 🔭 I’m currently building a commercial software.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Vue.js.
 - 👯 I’m looking to collaborate on enterprise projects.
 - 🤔 I’m looking to connect with intelligent people.
 - 💬 Ask me about Golang, AWS, UX and Databases.
